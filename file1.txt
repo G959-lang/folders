@@ -1,1 +1,2 @@
 welcome to file1
+welcome again file1 with folder2 on git bash
